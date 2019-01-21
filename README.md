@@ -1,5 +1,5 @@
 # Work In Progress
-# Ansible Tower Inventory Create
+# ansible_tower_genie_inventories
 An Ansible role to create inventories and inventory sources.
 
 
@@ -12,7 +12,6 @@ An Ansible role to create inventories and inventory sources.
 |tower_user| Username of the API user to create inventory objects. Variable set in `vault.yml`.|
 |tower_pass| Password of the API user to create inventory objects. Variable set in `vault.yml`.|
 
----
 # Author
 [Edward Quail](mailto:equail@redhat.com)  
 [Andrew J. Huffman](mailto:ahuffman@redhat.com)
