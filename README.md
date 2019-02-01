@@ -16,5 +16,5 @@ An Ansible role to create inventories and inventory sources.
 [MIT](LICENSE)
 
 # Author
-[Edward Quail](mailto:equail@redhat.com)
+[Edward Quail](mailto:equail@redhat.com)  
 [Andrew J. Huffman](https://github.com/ahuffman)
